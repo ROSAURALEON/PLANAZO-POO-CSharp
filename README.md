@@ -102,31 +102,37 @@ dotnet run
 
 ## 10. Evidencias de funcionamiento
 
-##  Consulta de reservas por usuario
+## 10. Evidencias de funcionamiento
 
+### Consulta de reservas por usuario
 Función: Permite buscar las reservas de un usuario mediante su identificador, mostrando los eventos reservados y la cantidad de entradas asociadas.
-![](Capturas/Consulta de reservas por usuario.png)
 
-## Cancelación de una reserva
+![Consulta de reservas por usuario](<Capturas/Consulta de reservas por usuario.png>)
+
+### Cancelación de una reserva
 Función: Permite cancelar una reserva existente, cambiar su estado a cancelada y devolver los cupos al evento correspondiente.
-![](Capturas/Cancelación de una reserva.png)
 
-## Registro de una reserva
+![Cancelación de una reserva](<Capturas/Cancelación de una reserva.png>)
+
+### Registro de una reserva
 Función: Permite seleccionar un evento, registrar el usuario y la cantidad de entradas que desea reservar, calcular el valor total y guardar la reserva.
-![](Capturas/Reserva de entradas.png)
 
-## Consulta de reservas realizadas
+![Registro de una reserva](<Capturas/Reserva de entradas.png>)
+
+### Consulta de reservas realizadas
 Función: Permite visualizar las reservas registradas en el sistema, mostrando la información de cada reserva y su estado, ya sea activa o cancelada.
-![](Capturas/Consulta de reservas realizadas.png)
 
-## Consulta de un evento
+![Consulta de reservas realizadas](<Capturas/Consulta de reservas realizadas.png>)
+
+### Consulta de un evento
 Función: Permite consultar los detalles de un evento específico mediante su identificador, incluyendo su nombre, fecha y precio de la entrada.
-![](Capturas/Consulta de un evento.png)
 
-## Consulta de eventos disponibles
+![Consulta de un evento](<Capturas/Consulta de un evento.png>)
+
+### Visualización de eventos disponibles
 Función: Permite visualizar el listado de eventos disponibles, mostrando información como sus nombres, fechas, precios y cantidad de cupos disponibles.
 
-![](Capturas/Visualización de eventos disponibles.png)
+![Visualización de eventos disponibles](<Capturas/Visualización de eventos disponibles.png>)
 
 ## 11. Autoría
 
